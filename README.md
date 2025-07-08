@@ -2,7 +2,7 @@
 
 A simple and secure password management application built with Python and Tkinter. Generate strong, customizable passwords and save your login details effortlessly.
 
-![Project Image](1.png)
+![Project Image](PasswordManager/1.png)
 
 ## Features
 - Generate strong passwords with customizable counts of letters, numbers, and special characters.
